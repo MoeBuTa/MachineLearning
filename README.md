@@ -1,2 +1,2 @@
 # MachineLearning
-Lab assignments of CITS5508 Machine Learning in 2022.
+CITS5508 Machine Learning Lab assignments in 2022.
